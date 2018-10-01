@@ -1,4 +1,5 @@
 #include <Mouse.h>
+
 #define DELAY 1
 
 int r;
